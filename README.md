@@ -1,22 +1,22 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aryanabhiarya8/aryanabhiaryan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/aryanabhiarya8/count.svg" />
 </p>
 
-<h1 align="center"><b>😈 🔥SHIVAM 𝙓 SPAM 🔥💫 😈</b></h1>
+<h1 align="center"><b>😈 🔥ARYAN 𝙓 SPAM 🔥💫 😈</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://telegra.ph/file/0de98f5fe87df8e6b514d.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/xx_aryan8_xx"><img src="https://telegra.ph/file/0de98f5fe87df8e6b514d.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP SK SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP ARYAN X SPAM BOT, That is the greatest pleasure we have !
 
 <br>
 
@@ -29,7 +29,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/Sk_spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/aryanabhiarya8/AryanXspam_bot)
   
 </details>
 
